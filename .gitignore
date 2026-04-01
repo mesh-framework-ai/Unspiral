@@ -1,0 +1,32 @@
+# Logs
+logs/
+
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude / OMC
+.claude/
+.omc/
+
+# Research papers
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
