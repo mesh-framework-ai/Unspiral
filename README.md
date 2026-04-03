@@ -4,7 +4,7 @@
 
 > When an AI tells you what you want to hear instead of what you need to hear, people can get hurt. Unspiral is a real-time defense system that monitors AI conversations for dangerous agreement patterns and intervenes before false beliefs become entrenched.
 
-Made by **[Mesh Framework](https://github.com/mesh-framework-ai)**
+Made by **[Mesh Framework](https://x.com/meshframework)**
 
 ---
 
