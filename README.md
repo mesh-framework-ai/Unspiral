@@ -200,7 +200,7 @@ The conversation continued for 5 more turns, culminating in the user announcing 
 
 ```bash
 # Clone the repository
-git clone https://github.com/mesh-framework/unspiral.git
+git clone https://github.com/mesh-framework-ai/unspiral.git
 cd unspiral
 
 # Install the package
